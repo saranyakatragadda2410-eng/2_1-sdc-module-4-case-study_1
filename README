@@ -1,0 +1,16 @@
+# 🏠 House Price Prediction — Linear Regression
+
+Predicting house prices using linear regression on features such as size,
+bedrooms, and location score.
+
+## 📁 Project Structure
+- `data/house_data.csv` — 50-row synthetic dataset
+- `src/` — modular Python code (loader, preprocessing, model, eval, visual)
+- `outputs/` — generated plots and predictions
+- `main.py` — end-to-end pipeline
+
+## 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+python main.py
